@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/courage/stepik/c++/static/bar.cpp
+count.hpp
+/home/courage/stepik/c++/static/count.hpp
+
+/home/courage/stepik/c++/static/count.hpp
+iostream
+-
+
+/home/courage/stepik/c++/static/foo.cpp
+count.hpp
+/home/courage/stepik/c++/static/count.hpp
+
+/home/courage/stepik/c++/static/foobarzoo.hpp
+
+/home/courage/stepik/c++/static/main.cpp
+foobarzoo.hpp
+/home/courage/stepik/c++/static/foobarzoo.hpp
+count.hpp
+/home/courage/stepik/c++/static/count.hpp
+iostream
+-
+
+/home/courage/stepik/c++/static/zoo.cpp
+count.hpp
+/home/courage/stepik/c++/static/count.hpp
+

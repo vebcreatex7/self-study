@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "text": "plaintext",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "text": "plaintext",
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp",
+        "ostream": "cpp"
+    }
+}

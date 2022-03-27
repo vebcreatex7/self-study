@@ -1,0 +1,3 @@
+/home/courage/stepik/c++/static/CMakeFiles/rebuild_cache.dir
+/home/courage/stepik/c++/static/CMakeFiles/edit_cache.dir
+/home/courage/stepik/c++/static/CMakeFiles/prog.dir

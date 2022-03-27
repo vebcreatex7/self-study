@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall   CMakeFiles/prog.dir/main.cpp.o CMakeFiles/prog.dir/foo.cpp.o CMakeFiles/prog.dir/bar.cpp.o CMakeFiles/prog.dir/zoo.cpp.o  -o prog 
